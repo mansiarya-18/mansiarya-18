@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%2C%20I'm%20Mansi%20Arya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20(AI)%20%7C%20ML%20%26%20NLP%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="header" />
+<h1>👋 Hi, I'm Mansi Arya</h1>
+<h3>B.Tech CSE (AI) &nbsp;|&nbsp; ML &amp; NLP Enthusiast</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Building+AI-powered+solutions;Learning+ML+%26+NLP+through+projects;Turning+data+into+predictions" alt="typing animation" />
 
@@ -66,6 +67,5 @@
 
 *"Learning one model at a time."* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
