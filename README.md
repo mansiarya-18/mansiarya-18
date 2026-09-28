@@ -1,17 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%2C%20I'm%20Mansi%20Arya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AI)%20%7C%20ML%20%26%20NLP%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%2C%20I'm%20Mansi%20Arya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20(AI)%20%7C%20ML%20%26%20NLP%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<a href="https://github.com/mansiarya-18">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Building+AI-powered+solutions;Learning+ML+%26+NLP+through+projects;Turning+data+into+predictions" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Building+AI-powered+solutions;Learning+ML+%26+NLP+through+projects;Turning+data+into+predictions" alt="typing animation" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mansiarya-18&label=Profile%20Views&color=2575fc&style=for-the-badge" alt="profile views" />
-<a href="https://www.linkedin.com/in/mansi-arya-671189382">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<a href="https://www.linkedin.com/in/mansi-arya-671189382"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/mansiarya-18?tab=repositories"><img src="https://img.shields.io/github/followers/mansiarya-18?style=for-the-badge&logo=github&label=Followers&color=2575fc" alt="Followers" /></a>
+<a href="https://github.com/mansiarya-18?tab=repositories"><img src="https://img.shields.io/badge/Repositories-11-6a11cb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
@@ -19,10 +16,10 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech '29 — Computer Science & Engineering (AI)
+- 🎓 B.Tech '29, Computer Science & Engineering (AI)
 - 🤖 Passionate about **Machine Learning** and **Natural Language Processing**
-- 🌱 Always learning — one dataset, one model at a time
-- 🛠️ I learn by building — every project here is a step forward
+- 🛠️ I learn by building. Every project here is a step forward
+- 🌱 Always learning, one dataset and one model at a time
 - 🤝 Open to collaborating on ML / NLP projects
 
 ---
@@ -49,8 +46,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🩺 [**Heart Disease Classification**](https://github.com/mansiarya-18/vortextech-aiml-week2) | Binary classifier predicting heart disease using Logistic Regression & Decision Tree, evaluated with accuracy, precision, recall, F1 | `Python` `scikit-learn` |
-| 🧹 [**Heart Disease Analysis**](https://github.com/mansiarya-18/vortextech-aiml-week1) | Data cleaning and exploratory analysis with pandas | `Python` `Pandas` |
+| 🩺 [**Heart Disease Prediction**](https://github.com/mansiarya-18/vortextech-aiml-week2) | Cleaned and analyzed heart disease data, then built a binary classifier (Logistic Regression & Decision Tree) evaluated with accuracy, precision, recall and F1 | `Python` `Pandas` `scikit-learn` |
 | 🚦 [**AI Traffic Demand Prediction**](https://github.com/mansiarya-18/AI-Traffic-Demand-Prediction) | Predicts urban traffic demand from road, weather, temporal and geographical features | `Python` `scikit-learn` `Feature Engineering` |
 | 💬 [**English Saathi Chatbot**](https://github.com/mansiarya-18/english-saathi-chatbot) | NLP chatbot helping rural learners improve English speaking, grammar and vocabulary | `Python` `NLP` |
 | 🌸 [**Iris Flower Classification**](https://github.com/mansiarya-18/Iris-Flower-Classification-ML) | Compares multiple supervised learning algorithms on the Iris dataset | `Python` `scikit-learn` |
@@ -59,36 +55,17 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mansiarya-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansiarya-18&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mansiarya-18&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mansi-arya-671189382">
-  <img src="https://img.shields.io/badge/LinkedIn-Mansi%20Arya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/mansiarya-18">
-  <img src="https://img.shields.io/badge/GitHub-mansiarya--18-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/mansi-arya-671189382"><img src="https://img.shields.io/badge/LinkedIn-Mansi%20Arya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/mansiarya-18"><img src="https://img.shields.io/badge/GitHub-mansiarya--18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
 *"Learning one model at a time."* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
