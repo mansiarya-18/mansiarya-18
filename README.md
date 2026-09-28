@@ -9,7 +9,7 @@
 
 <a href="https://www.linkedin.com/in/mansi-arya-671189382"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/mansiarya-18?tab=repositories"><img src="https://img.shields.io/github/followers/mansiarya-18?style=for-the-badge&logo=github&label=Followers&color=2575fc" alt="Followers" /></a>
-<a href="https://github.com/mansiarya-18?tab=repositories"><img src="https://img.shields.io/badge/Repositories-11-6a11cb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/mansiarya-18?tab=repositories"><img src="https://img.shields.io/badge/Repositories-16-6a11cb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
