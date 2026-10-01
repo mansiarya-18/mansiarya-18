@@ -9,7 +9,7 @@
 
 <a href="https://www.linkedin.com/in/mansi-arya-671189382"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/mansiarya-18?tab=repositories"><img src="https://img.shields.io/github/followers/mansiarya-18?style=for-the-badge&logo=github&label=Followers&color=2575fc" alt="Followers" /></a>
-<a href="https://github.com/mansiarya-18?tab=repositories"><img src="https://img.shields.io/badge/Repositories-16-6a11cb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/mansiarya-18?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14-6a11cb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
@@ -49,11 +49,8 @@
 |---|---|---|
 | 🩺 [**Heart Disease Prediction**](https://github.com/mansiarya-18/vortextech-aiml-week2) | Cleaned and analyzed heart disease data, then built a binary classifier (Logistic Regression & Decision Tree) evaluated with accuracy, precision, recall and F1 | `Python` `Pandas` `scikit-learn` |
 | 🚦 [**AI Traffic Demand Prediction**](https://github.com/mansiarya-18/AI-Traffic-Demand-Prediction) | Predicts urban traffic demand from road, weather, temporal and geographical features | `Python` `scikit-learn` `Feature Engineering` |
-| 💬 [**English Saathi Chatbot**](https://github.com/mansiarya-18/english-saathi-chatbot) | NLP chatbot helping rural learners improve English speaking, grammar and vocabulary | `Python` `NLP` |
 | 🌸 [**Iris Flower Classification**](https://github.com/mansiarya-18/Iris-Flower-Classification-ML) | Compares multiple supervised learning algorithms on the Iris dataset | `Python` `scikit-learn` |
 | 🍷 [**Wine Classification**](https://github.com/mansiarya-18/Wine-Classification-ML) | Classifies wine categories and evaluates model performance | `Python` `scikit-learn` |
-| 🌐 [**Student Portfolio Website**](https://github.com/mansiarya-18/WEBD) | 4-page portfolio site (Home, About, Skills, Contact) | `HTML` `CSS` |
-
 ---
 
 ## 📫 Let's Connect
